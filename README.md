@@ -4,7 +4,7 @@ This code is an adaptation of 'underwater-image-enhancement' https://github.com/
 ## Workflow 
 ![image](https://github.com/karlroberts0401/Underwater_image_preprocessing/assets/93919314/ede4c960-aa61-4cfe-9db5-4433be96c80f)
 
-The above workflow is followed except the adapted code uses solely averaging-based image fusion opposed to PCA-based fusion.
+The above workflow is followed, except the adapted code uses solely averaging-based image fusion opposed to PCA-based fusion.
 The adaptations to the code are as follows:
 1. The ability to batch process imagery, i.e. the code processes all images in a folder and outputs the processed versions in a seperate folder.
 2. Code efficiency optimisation to reduce process time per image e.g. utilising vectorised operations - Numpy arrays opposed to nested loops (which operate on each pixel) and using PyTorch tensors over PIL images allows for faster GPU utilisation.
