@@ -15,6 +15,8 @@ With these adaptations, based on operation from a WS-X1181G, Intel (R) Core(TM) 
 ## Results
 
 ![image](https://github.com/karlroberts0401/Underwater_image_preprocessing/assets/93919314/a16f6f28-2ef7-434c-b3fc-97166aab61e8)
+
+
 ![image](https://github.com/karlroberts0401/Underwater_image_preprocessing/assets/93919314/14b4fc9e-c5f3-48d3-a364-920b336b3c65)
 
 ## Discussion
